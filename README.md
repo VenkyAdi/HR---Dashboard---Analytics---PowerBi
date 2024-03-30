@@ -1,4 +1,7 @@
 # HR---Dashboard---Analytics---PowerBi
+
+Goal: This project aims to support organizational efforts in enhancing employee performance and mitigating attrition by developing an HR analytics dashboard. The dashboard offers actionable insights derived from employee data, facilitating informed decision-making to bolster employee satisfaction and retention through data-driven strategies.
+
 **Data Source:**
 
 https://github.com/VenkyAdi/HR---Dashboard---Analytics---PowerBi/assets/38469568/9521d956-ae94-4093-99c9-0e39a5e8b858
